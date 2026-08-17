@@ -1,0 +1,16 @@
+{
+  "name": "Parish Priest Stores",
+  "short_name": "PP Stores",
+  "description": "Genuine phones, gadgets and accessories, delivered across Nigeria.",
+  "start_url": "./parish-priest-stores.html",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#FAFAF7",
+  "theme_color": "#16223F",
+  "icons": [
+    { "src": "icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any" },
+    { "src": "icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any" },
+    { "src": "icon-512-maskable.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable" }
+  ]
+}
